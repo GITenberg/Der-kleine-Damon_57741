@@ -1,0 +1,25 @@
+_repo: Der-kleine-Damon_57741
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Walter, Reinhold von
+    gutenberg_agent_id: '49574'
+    url: http://www.gutenberg.org/2009/agents/49574
+creator:
+  author:
+    agent_name: Sologub, Fjodor
+    gutenberg_agent_id: '49573'
+    url: http://www.gutenberg.org/2009/agents/49573
+description: ''
+gutenberg_issued: '2018-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57741'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Der kleine Dämon
+url: http://www.gutenberg.org/ebooks/57741
