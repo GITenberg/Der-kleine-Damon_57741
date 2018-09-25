@@ -1,16 +1,21 @@
 _repo: Der-kleine-Damon_57741
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Walter, Reinhold von
     gutenberg_agent_id: '49574'
     url: http://www.gutenberg.org/2009/agents/49574
+covers:
+- cover_type: archival
+  image_path: 57741-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Sologub, Fjodor
     gutenberg_agent_id: '49573'
     url: http://www.gutenberg.org/2009/agents/49573
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57741#Der-kleine-Damon
 gutenberg_issued: '2018-08-22'
 gutenberg_type: Text
 identifiers:
